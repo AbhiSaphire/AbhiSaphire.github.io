@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d943ba55053e7713dc80c6b12f397ca",
+    "revision": "a51803c7d9d79809f2601d8bca1d37cb",
     "url": "/index.html"
   },
   {
-    "revision": "d81a776520acfee8431e",
+    "revision": "a7cc003f6de8f7178543",
     "url": "/static/css/main.a3f5a7a9.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.451a2ad7.chunk.js"
   },
   {
-    "revision": "d81a776520acfee8431e",
-    "url": "/static/js/main.5e544cf2.chunk.js"
+    "revision": "a7cc003f6de8f7178543",
+    "url": "/static/js/main.2885707b.chunk.js"
   },
   {
     "revision": "efcce9e3a90d19e09864",
@@ -168,8 +168,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/internshala_logo.28b1b03d.png"
   },
   {
-    "revision": "858096f5b9e0f8191cdc76c373e49f95",
-    "url": "/static/media/logo.858096f5.png"
+    "revision": "11dd5a7b49f53196937716f16904e335",
+    "url": "/static/media/logo.11dd5a7b.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",

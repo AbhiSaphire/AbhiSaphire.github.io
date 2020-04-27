@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a3f5a7a9.chunk.css",
-    "main.js": "/static/js/main.5e544cf2.chunk.js",
-    "main.js.map": "/static/js/main.5e544cf2.chunk.js.map",
+    "main.js": "/static/js/main.2885707b.chunk.js",
+    "main.js.map": "/static/js/main.2885707b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bb72e66d.js",
     "runtime-main.js.map": "/static/js/runtime-main.bb72e66d.js.map",
     "static/js/2.451a2ad7.chunk.js": "/static/js/2.451a2ad7.chunk.js",
     "static/js/2.451a2ad7.chunk.js.map": "/static/js/2.451a2ad7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.540004b4b347e5637bb8bde59c248aca.js": "/precache-manifest.540004b4b347e5637bb8bde59c248aca.js",
+    "precache-manifest.389c38d75fb8c462580e96abcb7bc344.js": "/precache-manifest.389c38d75fb8c462580e96abcb7bc344.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a3f5a7a9.chunk.css.map": "/static/css/main.a3f5a7a9.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -27,7 +27,7 @@
     "static/media/ghrcem_logo.png": "/static/media/ghrcem_logo.b146fee8.png",
     "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
     "static/media/internshala_logo.png": "/static/media/internshala_logo.28b1b03d.png",
-    "static/media/logo.png": "/static/media/logo.858096f5.png",
+    "static/media/logo.png": "/static/media/logo.11dd5a7b.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.bb72e66d.js",
     "static/js/2.451a2ad7.chunk.js",
     "static/css/main.a3f5a7a9.chunk.css",
-    "static/js/main.5e544cf2.chunk.js"
+    "static/js/main.2885707b.chunk.js"
   ]
 }
