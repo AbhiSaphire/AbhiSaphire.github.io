@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3f5a7a9.chunk.css",
-    "main.js": "/static/js/main.2885707b.chunk.js",
-    "main.js.map": "/static/js/main.2885707b.chunk.js.map",
+    "main.css": "/static/css/main.add9b47e.chunk.css",
+    "main.js": "/static/js/main.8e8eefe9.chunk.js",
+    "main.js.map": "/static/js/main.8e8eefe9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bb72e66d.js",
     "runtime-main.js.map": "/static/js/runtime-main.bb72e66d.js.map",
-    "static/js/2.451a2ad7.chunk.js": "/static/js/2.451a2ad7.chunk.js",
-    "static/js/2.451a2ad7.chunk.js.map": "/static/js/2.451a2ad7.chunk.js.map",
+    "static/js/2.4c9402d4.chunk.js": "/static/js/2.4c9402d4.chunk.js",
+    "static/js/2.4c9402d4.chunk.js.map": "/static/js/2.4c9402d4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.389c38d75fb8c462580e96abcb7bc344.js": "/precache-manifest.389c38d75fb8c462580e96abcb7bc344.js",
+    "precache-manifest.4d223e7c9d21cc732edbcd97055e0394.js": "/precache-manifest.4d223e7c9d21cc732edbcd97055e0394.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a3f5a7a9.chunk.css.map": "/static/css/main.a3f5a7a9.chunk.css.map",
+    "static/css/main.add9b47e.chunk.css.map": "/static/css/main.add9b47e.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/abhi.png": "/static/media/abhi.a754ce12.png",
     "static/media/abhi1.png": "/static/media/abhi1.8da6e1c1.png",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cc_ghrcem.png": "/static/media/cc_ghrcem.58893412.png",
+    "static/media/codecademy.svg": "/static/media/codecademy.31304150.svg",
+    "static/media/coursera.svg": "/static/media/coursera.24fe31f3.svg",
     "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/education.svg": "/static/media/education.caed892b.svg",
@@ -39,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bb72e66d.js",
-    "static/js/2.451a2ad7.chunk.js",
-    "static/css/main.a3f5a7a9.chunk.css",
-    "static/js/main.2885707b.chunk.js"
+    "static/js/2.4c9402d4.chunk.js",
+    "static/css/main.add9b47e.chunk.css",
+    "static/js/main.8e8eefe9.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a51803c7d9d79809f2601d8bca1d37cb",
+    "revision": "05727772fa42549bff1ffde08df69050",
     "url": "/index.html"
   },
   {
-    "revision": "a7cc003f6de8f7178543",
-    "url": "/static/css/main.a3f5a7a9.chunk.css"
+    "revision": "480815c828349f69be42",
+    "url": "/static/css/main.add9b47e.chunk.css"
   },
   {
-    "revision": "35e39b1ff1207d686b95",
-    "url": "/static/js/2.451a2ad7.chunk.js"
+    "revision": "a660dd0c3e62c44efbcc",
+    "url": "/static/js/2.4c9402d4.chunk.js"
   },
   {
-    "revision": "a7cc003f6de8f7178543",
-    "url": "/static/js/main.2885707b.chunk.js"
+    "revision": "480815c828349f69be42",
+    "url": "/static/js/main.8e8eefe9.chunk.js"
   },
   {
     "revision": "efcce9e3a90d19e09864",
@@ -70,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "588934123ecb35eb0278bc29d8a7e5e5",
     "url": "/static/media/cc_ghrcem.58893412.png"
+  },
+  {
+    "revision": "31304150dd9574cd14a8f6ad6c605aa9",
+    "url": "/static/media/codecademy.31304150.svg"
+  },
+  {
+    "revision": "24fe31f3c1425962b65611b4cbd111fe",
+    "url": "/static/media/coursera.24fe31f3.svg"
   },
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
